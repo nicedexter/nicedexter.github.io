@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Un test sous Gatsby]]></title><description><![CDATA[Je blog ici]]></description><link>https://nicedexter.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 17 Feb 2019 14:13:58 GMT</lastBuildDate><item><title><![CDATA[A celle qui est trop gaie]]></title><description><![CDATA[Ta tête, ton geste, ton air Sont beaux comme un beau paysage; Le rire joue en ton visage Comme un vent frais dans un ciel clair.   Le…]]></description><link>https://nicedexter.github.io//hello-charles/</link><guid isPermaLink="false">https://nicedexter.github.io//hello-charles/</guid><pubDate>Sun, 17 Feb 2019 15:00:03 GMT</pubDate><content:encoded>&lt;p&gt;Ta tête, ton geste, ton air&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Un test sous Gatsby]]></title><description><![CDATA[Je blog ici]]></description><link>https://nicedexter.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 18 Feb 2019 22:40:26 GMT</lastBuildDate><item><title><![CDATA[Tristesses de la lune]]></title><description><![CDATA[Ce soir, la lune rêve avec plus de paresse; Ainsi qu’une beauté, sur de nombreux coussins, Qui d’une main distraite et légère caresse Avant…]]></description><link>https://nicedexter.github.io//bye-felicia/</link><guid isPermaLink="false">https://nicedexter.github.io//bye-felicia/</guid><pubDate>Tue, 19 Feb 2019 23:59:00 GMT</pubDate><content:encoded>&lt;p&gt;Ce soir, la lune rêve avec plus de paresse;&lt;br&gt;
+Ainsi qu’une beauté, sur de nombreux coussins,&lt;br&gt;
+Qui d’une main distraite et légère caresse&lt;br&gt;
+Avant de s’endormir le contour de ses seins,  &lt;/p&gt;
+&lt;p&gt;Sur le dos satiné des molles avalanches,&lt;br&gt;
+Mourante, elle se livre aux longues pâmoisons,&lt;br&gt;
+Et promène ses yeux sur les visions blanches&lt;br&gt;
+Qui montent dans l’azur comme des floraisons.  &lt;/p&gt;
+&lt;p&gt;Quand parfois sur ce globe, en sa langueur oisive,&lt;br&gt;
+Elle laisse filer une larme furtive,&lt;br&gt;
+Un poète pieux, ennemi du sommeil,  &lt;/p&gt;
+&lt;p&gt;Dans le creux de sa main prend cette larme pâle,&lt;br&gt;
+Aux reflets irisés comme un fragment d’opale,&lt;br&gt;
+Et la met dans son coeur loin des yeux du soleil.  &lt;/p&gt;
+&lt;h4&gt;Charles Baudelaire&lt;/h4&gt;</content:encoded></item><item><title><![CDATA[A celle qui est trop gaie]]></title><description><![CDATA[Ta tête, ton geste, ton air Sont beaux comme un beau paysage; Le rire joue en ton visage Comme un vent frais dans un ciel clair.   Le…]]></description><link>https://nicedexter.github.io//hello-charles/</link><guid isPermaLink="false">https://nicedexter.github.io//hello-charles/</guid><pubDate>Sun, 17 Feb 2019 15:00:03 GMT</pubDate><content:encoded>&lt;p&gt;Ta tête, ton geste, ton air&lt;br&gt;
 Sont beaux comme un beau paysage;&lt;br&gt;
 Le rire joue en ton visage&lt;br&gt;
 Comme un vent frais dans un ciel clair.  &lt;/p&gt;
@@ -34,7 +48,7 @@ Une blessure large et creuse,&lt;/p&gt;
 A travers ces lèvres nouvelles,&lt;br&gt;
 Plus éclatantes et plus belles,&lt;br&gt;
 T’infuser mon venin, ma soeur!&lt;/p&gt;
-&lt;h3&gt;Charles Baudelaire (1821–67)&lt;/h3&gt;
+&lt;h4&gt;Charles Baudelaire (1821–67)&lt;/h4&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
